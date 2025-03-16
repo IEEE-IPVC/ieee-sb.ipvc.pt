@@ -1,0 +1,28 @@
+.board-member {
+    max-width: 250px;
+    margin: 0 auto;
+  }
+  
+  .board-member img {
+    max-width: 150px;
+    height: auto;
+  }
+  
+  .board-member h5 {
+    font-size: 1rem;
+  }
+  
+  .board-member p {
+    font-size: 0.9rem;
+  }
+  
+  @media (max-width: 768px) {
+    .board-member {
+      max-width: 200px;
+    }
+  
+    .board-member img {
+      max-width: 120px;
+    }
+  }
+  
