@@ -4,10 +4,10 @@ function footer() {
         <!-- Linha para as imagens -->
         <div class="row justify-content-center align-items-center text-center gap-3">
             <div class="col-auto"> <!-- "col-auto" ajusta a largura ao conteúdo -->
-                <img src="img/decor/footerieee.png" alt="IEEE Logo" class="footerlogos img-fluid">
+                <img src="/img/decor/footerieee.png" alt="IEEE Logo" class="footerlogos img-fluid">
             </div>
             <div class="col-auto">
-                <img src="img/decor/footeripvc.png" alt="IPVC Logo" class="footerlogos img-fluid">
+                <img src="/img/decor/footeripvc.png" alt="IPVC Logo" class="footerlogos img-fluid">
             </div>
         </div>
 
